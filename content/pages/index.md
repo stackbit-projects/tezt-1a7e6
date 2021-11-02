@@ -12,9 +12,6 @@ sections:
       - label: App Store
         url: /pricing
         style: primary
-      - label: Google Play
-        url: /pricing
-        style: secondary
     image: /images/person-1.png
     image_alt: Hero section placeholder image
     media_position: left
